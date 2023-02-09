@@ -1,5 +1,5 @@
 # BalloonBot
-
+### 활용법
 1. ImageJ 설치 (https://imagej.nih.gov/ij/download.html)
 2. ImageJ Measurement 값 설정 (Centroid 값을 포함시켜야 각각의 Region of Interest의 중앙의 좌표를 알 수 있습니다.)
 3. Region of Interest 매크로 코드에서 경로 변경
@@ -9,6 +9,7 @@
 7. 엑셀 함수 사용해서 1열에 있는 데이터 값을 m*n으로 나눔. 
 8. class 별로 색상을 분류해서 그림 복원되는 것까지 확인. 
 ------------------------------------------------------------------------------------------------------
+### 세부사항
 1.	이미지 하나를 선택 
 2.	ImageJ 프로그램을 실행
 3.	Open – 이미지 불러오기
