@@ -1,6 +1,6 @@
 # BalloonBot
 
-1. ImageJ 설치
+1. ImageJ 설치 (https://imagej.nih.gov/ij/download.html)
 2. ImageJ Measurement 값 설정 (Centroid)
 3. Region of Interest 매크로 코드 작성 (ImageJ에서 제공하는 함수가 있으니 참고)
 4. Run Macro 
